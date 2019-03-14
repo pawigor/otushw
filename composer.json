@@ -1,5 +1,6 @@
 {
     "name": "otus/pawigor",
+    "version": "0.0.3",
     "description": "Sample of composer package by Igor Pavlichenko",
     "require": {
         "monolog/monolog": "^1.24"

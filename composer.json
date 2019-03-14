@@ -1,0 +1,17 @@
+{
+    "name": "otus/pawigor",
+    "description": "Sampla of composer package by Igor Pavlichenko",
+    "require": {
+        "monolog/monolog": "^1.24"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Igor Pavlichenko",
+            "email": "pawigor@pieware.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
